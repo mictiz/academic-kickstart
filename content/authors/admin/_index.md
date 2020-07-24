@@ -36,7 +36,7 @@ education:
   - course: MS Theoretical Phyisics
     institution: Università di Roma Tor Vergata
     year: 2015
-  - course: BSc in Artificial Intelligence
+  - course: BSc Physics
     institution: Università di Roma Tor Vergata
     year: 2013
 
