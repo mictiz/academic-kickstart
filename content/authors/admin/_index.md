@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michele Tizzani
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PostDoc Researcher in Digital Epidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: ISI Foundation 
+  url: "https://www.isi.it/en/home/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include network science and complex systems, epidemiology and statistichal analysis.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Epidemiology
+- Physics
+- Computational Social Science
+- Network Science
+- Stochastic Processes
+- Music
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: PhD in Physics
+    institution: Università degli Studi di Parma
+    year: 2018
+  - course: MS Theoretical Phyisics
+    institution: Università di Roma Tor Vergata
+    year: 2015
   - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Università di Roma Tor Vergata
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +47,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:mictiz@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: h
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=iXfwdp4AAAAJ&hl=it
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mictiz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
