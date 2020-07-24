@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "mictiz@gmail.com"
 phone = ""
 
 # Address
@@ -245,7 +245,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
