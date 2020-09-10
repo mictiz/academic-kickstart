@@ -18,49 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral Researcher"
-  company = "ISI Foundation"
-  company_url = "https://www.isi.it/en/home"
-  location = "Turin, Italy"
-  date_start = "2019-05-01"
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Research on Computational Social Science, Digital Epidemiology, Network Science
-  * Collection and analysis of digital data from Twitter, GDELT news database, and Facebook ads.
-  * Collection of digital data from Wikipedia, and analysis of click-rate time-series. 
-  * Modelling dynamical processes on higher order networks.
-  * Co-tutoring for Master Thesis of student from physics department.
-  
-
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Tutor"
-  company = "University o Parma"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Parma, Italy"
-  date_start = "2017-04-01"
-  date_end = "2019-04-31"
-  description = """Tutoring bachelor students for the class of Physics for Biotechnology"""
-
-[[experience]]
-  title = "Teacher"
-  company = "High School"
-  company_url = ""
-  location = "Parma, Italy"
-  date_start = "2018-12-01"
-  date_end = "2019-04-31"
-  description = """Supplementary Teacher of math and physics in high school"""
-
-[[experience]]
-  title = "Guitar Teacher"
-  company = "Ariccia School of Music"
-  company_url = ""
-  location = "Ariccia, Italy"
-  date_start = "2012-0-01"
-  date_end = "2012-12-31"
-  description = """Supplementary guitar teacher for private music school"""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
