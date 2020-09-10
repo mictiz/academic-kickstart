@@ -53,8 +53,8 @@ date_format = "Jan 2006"
   company = "Ariccia School Accademy"
   company_url = ""
   location = "Ariccia, Italy"
-  date_start = "2012-0-01"
-  date_end = "2012-12-31"
+  date_start = "2012-02-01"
+  date_end = "2012-06-31"
   description = """Supplementary guitar teacher for private music school"""
 
 
