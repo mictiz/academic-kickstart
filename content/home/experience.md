@@ -17,7 +17,8 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+
+[[experience]
   title = "Posdoctoral Researcher"
   company_url = ""
   location = "Turin, Italy"
@@ -25,14 +26,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
   * Research on Computational Social Science, Digital Epidemiology, Network Science
   * Collection and analysis of digital data from Twitter, GDELT news database, and Facebook ads.
   * Collection of digital data from Wikipedia, and analysis of click-rate time-series. 
   * Modelling dynamical processes on higher order networks.
   * Co-tutoring for Master Thesis of student from physics department.
-  """
 
+"""
 [[experience]]
   title = "Tutor"
   company = "University o Parma"
@@ -41,7 +41,6 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = "2019-04-31"
   description = """Tutoring bachelor students for the class of Physics for Biotechnology"""
-
 [[experience]]
   title = "Teacher"
   company = "Hig school"
@@ -50,7 +49,6 @@ date_format = "Jan 2006"
   date_start = "2018-12-01"
   date_end = "2019-04-31"
   description = """Supplementary Teacher of math and physics in high school"""
-
 [[experience]]
   title = "Guitar Teacher"
   company = "Ariccia School Accademy"
