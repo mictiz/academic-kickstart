@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Turin, Italy"
   date_start = "2019-05-01"
   date_end = ""
-  description = "Research on Computational Social Science, Digital Epidemiology, Network Science"
+  description = ""Research on Computational Social Science, Digital Epidemiology, Network Science""
   Responsibilities include:
   
   * Collection and analysis of digital data from Twitter, GDELT news database, and Facebook ads.
