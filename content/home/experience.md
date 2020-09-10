@@ -19,6 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Posdoctoral Researcher"
+  company = "ISI Foundation"
   company_url = ""
   location = "Turin, Italy"
   date_start = "2019-05-01"
@@ -38,8 +39,8 @@ date_format = "Jan 2006"
   company = "University o Parma"
   company_url = ""
   location = "Parma, Italy"
-  date_start = "2017-04-01"
-  date_end = "2019-04-31"
+  date_start = "2016-04-01"
+  date_end = "2018-04-31"
   description = """Tutoring bachelor students for the class of Physics for Biotechnology"""
 
 [[experience]]
