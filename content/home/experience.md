@@ -33,12 +33,14 @@ date_format = "Jan 2006"
   * Modelling dynamical processes on higher order networks.
   * Co-tutoring for Master Thesis of student from physics department.
   """
+
 [[experience]]
   title = "Tutor"
   company = "University of Parma"
   company_url = ""
   location = "Parma, Italy"
   date_start = "2016-04-01"
-  date_end = "2018-04-31"
+  date_end = "2018-04-01"
   description = """Tutoring bachelor students for the class of Physics for Biotechnology"""
+
 +++
