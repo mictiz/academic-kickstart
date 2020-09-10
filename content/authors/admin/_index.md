@@ -33,6 +33,9 @@ education:
   - course: PhD in Physics
     institution: Università degli Studi di Parma
     year: 2018
+  - course: Erasmus
+    institution: LAPD Marseille
+    year: 2013
   - course: MS Theoretical Phyisics
     institution: Università di Roma Tor Vergata
     year: 2015
