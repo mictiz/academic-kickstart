@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   location = "Parma, Italy"
   date_start = "2017-04-01"
   date_end = "2019-04-31"
-  description = "Tutoring bachelor students for the class of Physics for Biotechnology"
+  description = """Tutoring bachelor students for the class of Physics for Biotechnology"""
 
 [[experience]]
   title = "Teacher"
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Parma, Italy"
   date_start = "2018-12-01"
   date_end = "2019-04-31"
-  description = "Supplementary Teacher of math and physics in high school"
+  description = """Supplementary Teacher of math and physics in high school"""
 
 [[experience]]
   title = "Guitar Teacher"
@@ -61,6 +61,6 @@ date_format = "Jan 2006"
   location = "Ariccia, Italy"
   date_start = "2012-0-01"
   date_end = "2012-12-31"
-  description = "Supplementary guitar teacher for private music school"
+  description = """Supplementary guitar teacher for private music school"""
 
 +++
