@@ -34,32 +34,5 @@ date_format = "Jan 2006"
   * Co-tutoring for Master Thesis of student from physics department.
   """
 
-[[experience]]
-  title = "Tutor"
-  company = "University o Parma"
-  company_url = ""
-  location = "Parma, Italy"
-  date_start = "2016-04-01"
-  date_end = "2018-04-31"
-  description = """Tutoring bachelor students for the class of Physics for Biotechnology"""
-
-[[experience]]
-  title = "Teacher"
-  company = "Hig school"
-  company_url = ""
-  location = "Parma, Italy"
-  date_start = "2018-12-01"
-  date_end = "2019-04-31"
-  description = """Supplementary Teacher of math and physics in high school"""
-
-[[experience]]
-  title = "Guitar Teacher"
-  company = "Ariccia School Accademy"
-  company_url = ""
-  location = "Ariccia, Italy"
-  date_start = "2012-02-01"
-  date_end = "2012-06-31"
-  description = """Supplementary guitar teacher for private music school"""
-
 
 +++
