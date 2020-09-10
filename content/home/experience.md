@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Turin, Italy"
   date_start = "2019-05-01"
-  date_end = "2020-12-01"
+  date_end = ""
   description = """
   Responsibilities include:
   * Research on Computational Social Science, Digital Epidemiology, Network Science
@@ -40,6 +40,7 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = "2019-04-31"
   description = """Tutoring bachelor students for the class of Physics for Biotechnology"""
+
 [[experience]]
   title = "Teacher"
   company = "Hig school"
@@ -48,6 +49,7 @@ date_format = "Jan 2006"
   date_start = "2018-12-01"
   date_end = "2019-04-31"
   description = """Supplementary Teacher of math and physics in high school"""
+
 [[experience]]
   title = "Guitar Teacher"
   company = "Ariccia School Accademy"
