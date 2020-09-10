@@ -24,13 +24,15 @@ date_format = "Jan 2006"
   location = "Turin, Italy"
   date_start = "2019-05-01"
   date_end = ""
-  description = ""Research on Computational Social Science, Digital Epidemiology, Network Science""
+  description = """
   Responsibilities include:
   
+  * Research on Computational Social Science, Digital Epidemiology, Network Science
   * Collection and analysis of digital data from Twitter, GDELT news database, and Facebook ads.
   * Collection of digital data from Wikipedia, and analysis of click-rate time-series. 
   * Modelling dynamical processes on higher order networks.
   * Co-tutoring for Master Thesis of student from physics department.
+  
 
   """
 
