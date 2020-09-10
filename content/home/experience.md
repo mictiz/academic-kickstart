@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Turin, Italy"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2020-12-01"
   description = """
   Responsibilities include:
   * Research on Computational Social Science, Digital Epidemiology, Network Science
