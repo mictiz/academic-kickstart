@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PostDoc Researcher in Digital Epidemiology
+role: PostDoc Researcher in Digital Epidemiology and Computational Social Science
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,12 @@ organizations:
 bio: My research interests include network science and complex systems, epidemiology and statistichal analysis.
 
 interests:
-- Epidemiology
 - Physics
-- Computational Social Science
+- Complex Systems
 - Network Science
+- Hypergraphs
+- Epidemiology
+- Computational Social Science
 - Stochastic Processes
 - Music
 
@@ -33,12 +35,12 @@ education:
   - course: PhD in Physics
     institution: Università degli Studi di Parma
     year: 2018
-  - course: Erasmus
-    institution: LAPD Marseille
-    year: 2013
   - course: MS Theoretical Phyisics
     institution: Università di Roma Tor Vergata
     year: 2015
+  - course: Erasmus
+    institution: LAPD Marseille
+    year: 2013
   - course: BSc Physics
     institution: Università di Roma Tor Vergata
     year: 2013
