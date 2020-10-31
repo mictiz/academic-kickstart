@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Epidemic spreading and aging in temporal networks with memory"
+title = "Recent Publications"
 subtitle = ""
 
 [content]
@@ -26,7 +26,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "Physical Review E"
+    category = ""
     publication_type = ""
     author = ""
     exclude_featured = false
