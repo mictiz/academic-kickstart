@@ -6,5 +6,6 @@
         "markdown",
         "latex",
         "plaintext"
-    ]
+    ],
+    "python.dataScience.jupyterServerURI": "http://localhost:7777/"
 }
